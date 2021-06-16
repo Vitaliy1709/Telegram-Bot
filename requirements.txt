@@ -1,0 +1,9 @@
+asgiref==3.2.10
+certifi==2021.5.30
+chardet==4.0.0
+idna==2.10
+lxml==4.6.1
+pyTelegramBotAPI==3.7.9
+pytz==2020.5
+requests==2.25.1
+telebot~=0.0.4
